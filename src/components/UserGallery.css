@@ -1,0 +1,32 @@
+body{
+    margin-top: 40px;
+    padding: 0px;
+}
+.header{
+    color: black; 
+    text-decoration: none; 
+    display: flex;
+    align-items: center;
+    top: 40px;
+    flex-direction: row;
+    position: inherit;
+    width: 60vw;
+    justify-content: space-between;
+}
+.user{
+    color: black; 
+    text-decoration: none; 
+    display: flex;
+    align-items: center;
+}
+.text{
+    font-size:20px ;   
+}
+.heading{
+    font-size: 30px;
+    font: bold;
+}
+.banner{
+    left: 50vw;
+    top:50vh;
+}
